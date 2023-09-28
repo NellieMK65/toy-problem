@@ -15,4 +15,10 @@ This is a repo covering all code challenge problems
 
 This calculates the grade of a student according to the marks given
 
-# Author: Nelson
+# License: MIT
+
+<a href="license.md">MIT License</a>
+
+# Author
+
+<p>This project was created by <strong>Nelson</strong> as part of the phase 1 Software Engineering</p>
